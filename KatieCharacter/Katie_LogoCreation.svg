@@ -32,11 +32,11 @@
      width="256px"
      objecttolerance="1"
      inkscape:zoom="1.2277304"
-     inkscape:cx="117.69685"
-     inkscape:cy="119.32587"
-     inkscape:window-width="1302"
-     inkscape:window-height="739"
-     inkscape:window-x="0"
+     inkscape:cx="118.1041"
+     inkscape:cy="118.91862"
+     inkscape:window-width="1856"
+     inkscape:window-height="1243"
+     inkscape:window-x="64"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -112,8 +112,13 @@
   <metadata
      id="metadata833">
     <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -124,12 +129,9 @@
            rdf:resource="http://creativecommons.org/ns#Attribution" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
-      <cc:Work
-         rdf:about="">
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
-      </cc:Work>
     </rdf:RDF>
   </metadata>
 </svg>
